@@ -1,6 +1,6 @@
 # Agricultural Knowledge Graph
 
-项目demo：http://ecnukg.vicp.io 
+# 针对这个项目，为项目增加注释。
 
 ## 项目介绍：
 
